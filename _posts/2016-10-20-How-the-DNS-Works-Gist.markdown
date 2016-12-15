@@ -1,8 +1,35 @@
 ---
 layout: post
-title:  "How the DNS works - Gist"
-date:   2016-10-20 16:52:36 -0600
-categories:
+title: "Example content"
+date: "2016-10-20"
+slug: "example_content"
+description: "The Domain Name System or the DNS is a resolution protocol for mapping the domain name of a server to its ip address. Putting this term in much simpler words, DNS can also be viewed as the system that can help map much difficult to remember IP Addresses to easier to remember domain name. Looking at an example, the domain name, say www.foo.com can have a ipv4 address such as 195.156.7.8 and a much longer (too long) ipV6 address (I am not going to give an example ;)!)."
+category:
+  - views
+  - featured
+# tags will also be used as html meta keywords.
+tags:
+  - examples
+  - common_tag
+show_meta: true
+comments: true
+mathjax: true
+gistembed: true
+published: true
+noindex: false
+nofollow: false
+# hide QR code, permalink block while printing.
+hide_printmsg: false
+# show post summary or full post in RSS feed.
+summaryfeed: false
+## for twitter summary card with squared image and page description or page excerpt:
+# imagesummary: foo.png
+## for twitter card with large image:
+# imagefeature: "http://img.youtube.com/vi/VEIrQUXm_hY/0.jpg"
+## for twitter video card: (active for this page)
+videofeature: "https://www.youtube.com/embed/iG9CE55wbtY"
+imagefeature: "http://img.youtube.com/vi/iG9CE55wbtY/0.jpg"
+videocredit: tedtalks
 ---
 <style>
 p {
