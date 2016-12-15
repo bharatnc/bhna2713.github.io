@@ -8,7 +8,7 @@ relative_permalinks: false
 # Setup
 title:               Bharat Nallan
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         Bharat Nallan's blog...
 url: https://bhna2713.github.io
 baseurl: "/bhna2713.github.io"
 urlimg: https://dyndna.github.io/lanyon-plus/images/
@@ -50,11 +50,11 @@ owner:
   facebook:
   github:         xyz123abc
   stackexchange:
-  linkedin:       https://www.linkedin.com/in/foo
+  linkedin:       https://www.linkedin.com/in/bharatnc
   instagram:
   flickr:
   tumblr:
-  google_plus:    https://plus.google.com/+foo
+  google_plus:    https://plus.google.com/
   # orcid and google scholar IDs are different than standard username.
   orcid: xyz123abc
   gscholar: xyz123abc
@@ -94,6 +94,6 @@ disqus_shortname: foo
 #google_analytics:   xyz123abc
 
 #### For dummy website only - remove if you wish ####
-github_repo: https://github.com/dyndna/lanyon-plus
+github_repo: https://github.com/bharatnc
 version: 1.1.0
 ## END ##
